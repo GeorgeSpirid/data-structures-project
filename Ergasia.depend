@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1719684540 source:c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	"Minheap.h"
+	"Maxheap.h"
+	"Graph.h"
+	"AVLTree.h"
+	"Hashtable.h"
+
+1716656492 source:c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\maxheap.cpp
+	"Maxheap.h"
+
+1716919024 c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\maxheap.h
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+
+1716656471 source:c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\minheap.cpp
+	"Minheap.h"
+
+1716656471 c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\minheap.h
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+
+1719410657 source:c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\avltree.cpp
+	"AVLTree.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1719410603 c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\avltree.h
+
+1719655467 source:c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\graph.cpp
+	"Graph.h"
+
+1719655467 c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\graph.h
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+
+1719685761 source:c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\hashtable.cpp
+	"Hashtable.h"
+	<fstream>
+	<iostream>
+
+1719686289 c:\users\spiri\onedrive\documents\coding\c++\data structs\ergasia\hashtable.h
+	<string>
+

@@ -1,0 +1,41 @@
+Build MinHeap: 1 4 3 15 7 10 9 17 20 8 
+MinHeap size: 10
+MinHeap min: 1
+New MinHeap after insertion of 5: 1 4 3 15 5 10 9 17 20 8 7 
+New MinHeap after deleting min: 3 4 7 15 5 10 9 17 20 8 
+Build MaxHeap: 17 15 13 9 6 5 10 4 8 3 1 
+MaxHeap size: 11
+MaxHeap max: 17
+New MaxHeap after insertion of 20: 20 15 17 9 6 13 10 4 8 3 1 5 
+New MaxHeap after deleting min: 17 15 13 9 6 5 10 4 8 3 1 
+Build Graph: Nodes 1: 0 1 4 6 0 , Nodes 2: 1 2 5 4 4 , Edges: 1 2 3 4 5 
+Graph's size: Nodes: 6, Edges: 5
+Shortest Path between 5 and 4 : 3
+1 and 7 are not connected
+Graph's connected components: 1
+Graph's connected components: 1
+Minimum Spanning Tree Weight: 15
+Insert 7 with 1 and weight 8: Nodes 1: 0 1 4 6 0 7 , Nodes 2: 1 2 5 4 4 1 , Edges: 1 2 3 4 5 8 
+Delete edge 7 with 1: Nodes 1: 0 1 4 6 0 , Nodes 2: 1 2 5 4 4 , Edges: 1 2 3 4 5 
+Delete edge 0 with 1: Nodes 1: 1 4 6 0 , Nodes 2: 2 5 4 4 , Edges: 2 3 4 5 
+Build AVLTree:23 4 456 4 2 5 0 
+Size of AVL Tree: 7
+AVL Tree's min: -53
+The number: 42 inserted in the AVLTree
+The number: 17 inserted in the AVLTree
+The number: 88 inserted in the AVLTree
+The number: 19 inserted in the AVLTree
+Size of AVL Tree: 11
+AVL Tree's min: -53
+Search of the value 42 was: SUCCESSFUL
+Search of the value 99 was: FAILURE
+The number: 17 deleted in the AVLTree
+Size of AVL Tree: 10
+AVL Tree's min: -53
+Search of the value 17 was: FAILURE
+Search of the value 19 was: SUCCESSFUL
+Build HashTable:
+Inserted: 1 into Hashtable.
+Found key 325 in Hashtable.
+Found key 67 in Hashtable.
+Size of Hashtable: 11
